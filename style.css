@@ -1,0 +1,115 @@
+*{
+    margin : 0;
+    padding : 0;
+}
+body{
+    text-align: center;
+    background-image:url("blue.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 700px;
+    filter: blur;
+    
+}
+
+.titulo{
+    text-align: center;
+    font-size: 40px;  line-height: 5.0em;
+    font-family:monospace;
+    font-weight: 1;
+    text-shadow: 2px 4px 5px rgb(88, 24, 192);
+    color: whitesmoke;
+   
+}
+
+#botao1{
+    display: inline-block;
+    padding: 13px 5px;
+    font-size: 20px;
+    font-family:monospace;
+    cursor: pointer;
+    text-align: center;	
+    text-decoration: none;
+    outline: none;
+    color: rgb(0, 0, 0);
+    background-color: #c9f8ea;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 0 7px rgba(13, 156, 144, 0.521);
+    -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+  }
+  
+  #botao1:hover {
+      background-color: #110653;
+      color:whitesmoke;
+}
+  
+#botao2{
+    display: inline-block;
+    padding: 13px 5px;
+    font-size: 20px;
+    font-family:monospace;
+    cursor: pointer;
+    text-align: center;	
+    text-decoration: none;
+    outline: none;
+    color: rgb(0, 0, 0);
+    background-color: #c9f8ea;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 0 7px rgba(13, 156, 144, 0.521);
+    -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+  }
+  
+  #botao2:hover {
+      background-color: #110653;
+      color:whitesmoke;
+}
+
+#botao3{
+    display: inline-block;
+    padding: 13px 5px;
+    font-size: 20px;
+    font-family:monospace;
+    cursor: pointer;
+    text-align: center;	
+    text-decoration: none;
+    outline: none;
+    color: rgb(0, 0, 0);
+    background-color: #c9f8ea;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 0 7px rgba(13, 156, 144, 0.521);
+    -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+  }
+  
+  #botao3:hover {
+      background-color: #110653;
+      color:whitesmoke;
+}
+
+
+#botao4{
+    display: inline-block;
+    padding: 13px 5px;
+    font-size: 20px;
+    font-family:monospace;
+    cursor: pointer;
+    text-align: center;	
+    text-decoration: none;
+    outline: none;
+    color: rgb(0, 0, 0);
+    background-color: #c9f8ea;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 0 7px rgba(13, 156, 144, 0.521);
+    -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+  }
+  
+  #botao4:hover {
+      background-color: #110653;
+      color:whitesmoke;
+}

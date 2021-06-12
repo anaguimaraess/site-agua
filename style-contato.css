@@ -1,0 +1,105 @@
+*{
+    margin : 0;
+    padding : 0;
+}
+body{
+    text-align: center;
+    background-color: rgb(5, 0, 22);
+    
+}
+.titulo{
+    text-align: center;
+    font-size: 15px;  line-height: 6.0em;
+    font-family:monospace;
+    text-shadow: 2px 4px 5px rgb(88, 24, 192);
+    color: whitesmoke;
+   
+}
+.titulo2{
+    text-align: center;
+    font-size: 15px;  line-height: 2.0em;
+    font-family:monospace;
+    text-shadow: 2px 4px 5px rgb(88, 24, 192);
+    color: whitesmoke;
+   
+}
+
+#image{
+    border-radius: 20px;
+    color: rgb(35, 0, 92);
+}
+
+#botao{
+    display: inline-block;
+    padding: 13px 5px;
+    font-size: 20px;
+    font-family:monospace;
+    cursor: pointer;
+    text-align: center;	
+    text-decoration: none;
+    outline: none;
+    color: rgb(0, 0, 0);
+    background-color: #c9f8ea;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 0 7px rgba(13, 156, 144, 0.521);
+    -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+    position: absolute;
+    height:9%;top:3%;left:10px;
+}
+#botao:hover {
+    background-color: #110653;
+    color:whitesmoke;
+}
+
+#txt{
+    color: whitesmoke;
+}
+
+#botao2{display: inline-block;
+    padding: 6px 3px;
+    font-size: 18px;
+    font-family:monospace;
+    cursor: pointer;
+    text-align: center;	
+    text-decoration: none;
+    outline: none;
+    color: rgb(0, 0, 0);
+    background-color: #c9f8ea;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 0 7px rgba(13, 156, 144, 0.521);
+    -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+    position: absolute;
+    height:30px;top:90%; left: 490px;
+}
+#botao2:hover {
+    background-color: #110653;
+    color:whitesmoke;
+
+}
+#botao3{display: inline-block;
+    padding: 6px 3px;
+    font-size: 18px;
+    font-family:monospace;
+    cursor: pointer;
+    text-align: center;	
+    text-decoration: none;
+    outline: none;
+    color: rgb(0, 0, 0);
+    background-color: #c9f8ea;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 0 7px rgba(13, 156, 144, 0.521);
+    -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+    position: absolute;
+    height:30px;top:90%; right: 490px;
+}
+#botao3:hover {
+    background-color: #110653;
+    color:whitesmoke;
+
+}

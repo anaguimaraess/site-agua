@@ -1,0 +1,52 @@
+*{
+    margin : 0;
+    padding : 0;
+}
+body{
+    text-align: center;
+    background-color: rgb(5, 0, 22);
+    
+}
+.titulo{
+    text-align: center;
+    font-size: 40px;  line-height: 2.0em;
+    font-family:monospace;
+    font-weight: 1;
+    text-shadow: 2px 4px 5px rgb(88, 24, 192);
+    color: whitesmoke;
+   
+}
+#imagem{
+    position:absolute;  left: 20px; top:15%;
+    border-radius: 40px;
+    border-color: rgb(0, 100, 67);
+}
+
+.tabela{
+    position:absolute;  right: 20px; top:40%;
+    color: whitesmoke;
+}
+
+#botao{
+    display: inline-block;
+    padding: 13px 5px;
+    font-size: 20px;
+    font-family:monospace;
+    cursor: pointer;
+    text-align: center;	
+    text-decoration: none;
+    outline: none;
+    color: rgb(0, 0, 0);
+    background-color: #c9f8ea;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 0 7px rgba(13, 156, 144, 0.521);
+    -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+    position: absolute;
+    height:9%;top:3%;left:10px;
+}
+#botao:hover {
+    background-color: #110653;
+    color:whitesmoke;
+}
